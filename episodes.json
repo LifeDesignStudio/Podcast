@@ -9,5 +9,14 @@
     "repo_name": "Podcast",
     "image_url": "https://LifeDesignStudio.github.io/Podcast/cover.jpg"
   },
-  "episodes": []
+  "episodes": [
+    {
+      "title": "VALTURE RADIO 2026-06-12",
+      "description": "VALTURE RADIO 2026-06-12",
+      "filename": "VALTURE_RADIO_2026-06-12_19_06.mp3",
+      "pub_date": "2026-06-12",
+      "duration": "01:00:00",
+      "file_size_bytes": 57600812
+    }
+  ]
 }
