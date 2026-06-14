@@ -1,0 +1,13 @@
+{
+  "podcast": {
+    "title": "Yoshi's Private Podcast",
+    "description": "個人用の非公開ポッドキャストフィード",
+    "author": "Yoshi",
+    "email": "your-email@example.com",
+    "language": "ja",
+    "github_username": "LifeDesignStudio",
+    "repo_name": "Podcast",
+    "image_url": "https://LifeDesignStudio.github.io/Podcast/cover.jpg"
+  },
+  "episodes": []
+}
