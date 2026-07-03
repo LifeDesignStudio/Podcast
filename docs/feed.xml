@@ -14,13 +14,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 26 Jun 2026 11:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:39:50 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
       <title>Yoshi's Private Podcast</title>
       <link>https://LifeDesignStudio.github.io/Podcast/feed.xml</link>
     </image>
+    <item>
+      <title>VALTURE RADIO 2026-07-03</title>
+      <description>VALTURE RADIO 2026-07-03</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/VALTURE_RADIO_2026-07-03_17_39.mp3" length="28800428" type="audio/mpeg"/>
+      <guid isPermaLink="false">VALTURE_RADIO_2026-07-03_17_39.mp3</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>VALTURE RADIO 2026-06-26</title>
       <description>VALTURE RADIO 2026-06-26</description>
