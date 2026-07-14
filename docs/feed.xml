@@ -14,13 +14,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 10 Jul 2026 03:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:57:14 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
       <title>Yoshi's Private Podcast</title>
       <link>https://LifeDesignStudio.github.io/Podcast/feed.xml</link>
     </image>
+    <item>
+      <title>【職種超分析：営業職】年収1000万円稼ぐ方法 2026-07-14</title>
+      <description>【職種超分析：営業職】年収1000万円稼ぐ方法 2026-07-14</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/1000_2026-07-14.mp3" length="14398035" type="audio/mpeg"/>
+      <guid isPermaLink="false">1000_2026-07-14.mp3</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>VALTURE RADIO 2026-07-10</title>
       <description>VALTURE RADIO 2026-07-10</description>
