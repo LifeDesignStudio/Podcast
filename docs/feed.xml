@@ -14,13 +14,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 14 Jul 2026 07:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:05:13 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
       <title>Yoshi's Private Podcast</title>
       <link>https://LifeDesignStudio.github.io/Podcast/feed.xml</link>
     </image>
+    <item>
+      <title>【なぜ痩せない？】井上咲楽さん初出演／東京マラソン／初心者へ「厚底シューズは安易に選ぶな」／走り方4タイプ診断／週2回×30分でOK ／食事は肉を取れ／ランニング新常識【PIVOT SPORTS】 2026-07-14</title>
+      <description>【なぜ痩せない？】井上咲楽さん初出演／東京マラソン／初心者へ「厚底シューズは安易に選ぶな」／走り方4タイプ診断／週2回×30分でOK ／食事は肉を取れ／ランニング新常識【PIVOT SPORTS】 2026-07-14</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/4230OK_PIVOT_SPORTS_2026-07-14.mp3" length="27292844" type="audio/mpeg"/>
+      <guid isPermaLink="false">4230OK_PIVOT_SPORTS_2026-07-14.mp3</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:28:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【職種超分析：営業職】年収1000万円稼ぐ方法 2026-07-14</title>
       <description>【職種超分析：営業職】年収1000万円稼ぐ方法 2026-07-14</description>
