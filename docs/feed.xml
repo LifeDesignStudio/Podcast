@@ -14,13 +14,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 14 Jul 2026 08:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:31:51 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
       <title>Yoshi's Private Podcast</title>
       <link>https://LifeDesignStudio.github.io/Podcast/feed.xml</link>
     </image>
+    <item>
+      <title>【初公開】実は誰でもできる。マッキンゼー流「ファシリの鉄則」 2026-07-16</title>
+      <description>【初公開】実は誰でもできる。マッキンゼー流「ファシリの鉄則」 2026-07-16</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/newspicks_2026-07-16.mp3" length="1923987" type="audio/mpeg"/>
+      <guid isPermaLink="false">newspicks_2026-07-16.mp3</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:04:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【職種超分析：営業職】将来性はあるのか？ 2026-07-14</title>
       <description>【職種超分析：営業職】将来性はあるのか？ 2026-07-14</description>
