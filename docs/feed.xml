@@ -14,13 +14,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 15 Jul 2026 23:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:04:31 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
       <title>Yoshi's Private Podcast</title>
       <link>https://LifeDesignStudio.github.io/Podcast/feed.xml</link>
     </image>
+    <item>
+      <title>VALTURE RADIO 2026-07-17</title>
+      <description>VALTURE RADIO 2026-07-17</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/VALTURE_RADIO_2026-07-17_10_04.mp3" length="28800428" type="audio/mpeg"/>
+      <guid isPermaLink="false">VALTURE_RADIO_2026-07-17_10_04.mp3</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【初公開】実は誰でもできる。マッキンゼー流「ファシリの鉄則」 2026-07-16</title>
       <description>【初公開】実は誰でもできる。マッキンゼー流「ファシリの鉄則」 2026-07-16</description>
