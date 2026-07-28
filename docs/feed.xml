@@ -14,7 +14,7 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 10:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:42:05 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
@@ -40,24 +40,6 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>J-WAVE TSUCHIYA EARTHOLOGY 2026-07-20</title>
-      <description>J-WAVE TSUCHIYA EARTHOLOGY 2026-07-20</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/J-WAVE_TSUCHIYA_EARTHOLOGY_2026-07-20_21_00.mp3" length="28800236" type="audio/mpeg"/>
-      <guid isPermaLink="false">J-WAVE_TSUCHIYA_EARTHOLOGY_2026-07-20_21_00.mp3</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:59:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>スタートアップ界のハーバード。徹底解説Yコンビネーター 2026-07-20</title>
-      <description>スタートアップ界のハーバード。徹底解説Yコンビネーター 2026-07-20</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/Y_2026-07-20.mp3" length="18739347" type="audio/mpeg"/>
-      <guid isPermaLink="false">Y_2026-07-20.mp3</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:39:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>VALTURE RADIO 2026-07-17</title>
       <description>VALTURE RADIO 2026-07-17</description>
       <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/VALTURE_RADIO_2026-07-17_10_04.mp3" length="28800428" type="audio/mpeg"/>
@@ -67,30 +49,12 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【初公開】実は誰でもできる。マッキンゼー流「ファシリの鉄則」 2026-07-16</title>
-      <description>【初公開】実は誰でもできる。マッキンゼー流「ファシリの鉄則」 2026-07-16</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/newspicks_2026-07-16.mp3" length="1923987" type="audio/mpeg"/>
-      <guid isPermaLink="false">newspicks_2026-07-16.mp3</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:04:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>【職種超分析：営業職】将来性はあるのか？ 2026-07-14</title>
       <description>【職種超分析：営業職】将来性はあるのか？ 2026-07-14</description>
       <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/pivot_2026-07-14.mp3" length="14124627" type="audio/mpeg"/>
       <guid isPermaLink="false">pivot_2026-07-14.mp3</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>00:29:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>【なぜ痩せない？】井上咲楽さん初出演／東京マラソン／初心者へ「厚底シューズは安易に選ぶな」／走り方4タイプ診断／週2回×30分でOK ／食事は肉を取れ／ランニング新常識【PIVOT SPORTS】 2026-07-14</title>
-      <description>【なぜ痩せない？】井上咲楽さん初出演／東京マラソン／初心者へ「厚底シューズは安易に選ぶな」／走り方4タイプ診断／週2回×30分でOK ／食事は肉を取れ／ランニング新常識【PIVOT SPORTS】 2026-07-14</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/4230OK_PIVOT_SPORTS_2026-07-14.mp3" length="27292844" type="audio/mpeg"/>
-      <guid isPermaLink="false">4230OK_PIVOT_SPORTS_2026-07-14.mp3</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:28:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
