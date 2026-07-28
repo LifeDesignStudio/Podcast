@@ -52,12 +52,23 @@ def delete_episodes(filenames):
     subprocess.run(["git", "add", "."], cwd=REPO_DIR, check=True)
     commit_msg = "Delete episode(s): " + ", ".join(deleted)
     subprocess.run(["git", "commit", "-m", commit_msg], cwd=REPO_DIR, check=True)
-    result = subprocess.run(
+
+    local_head = subprocess.run(
+        ["git", "rev-parse", "HEAD"], cwd=REPO_DIR, capture_output=True, text=True
+    ).stdout.strip()
+
+    subprocess.run(
         ["git", "push", "origin", "main"],
         cwd=REPO_DIR, capture_output=True, text=True
     )
-    if result.returncode != 0:
-        raise RuntimeError(f"git push 失敗: {result.stderr.strip()}")
+
+    # push の成否はリモートの実際の状態で判定（VS Code が先行 push する場合があるため）
+    subprocess.run(["git", "fetch", "origin"], cwd=REPO_DIR, capture_output=True)
+    remote_head = subprocess.run(
+        ["git", "rev-parse", "origin/main"], cwd=REPO_DIR, capture_output=True, text=True
+    ).stdout.strip()
+    if remote_head != local_head:
+        raise RuntimeError("リモートへの反映に失敗しました。手動で git push してください。")
 
     return True, deleted
 
