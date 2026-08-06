@@ -14,7 +14,7 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 06 Aug 2026 05:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:00:54 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
@@ -22,12 +22,12 @@
       <link>https://LifeDesignStudio.github.io/Podcast/feed.xml</link>
     </image>
     <item>
-      <title>【徹底解説】フィジカルAI、巨大市場の全貌 2026-08-06</title>
-      <description>【徹底解説】フィジカルAI、巨大市場の全貌 2026-08-06</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/AI_2026-08-06.mp3" length="5191347" type="audio/mpeg"/>
+      <title>中国フィジカルAI：日本企業の導入も 2026-08-06</title>
+      <description>中国フィジカルAI：日本企業の導入も 2026-08-06</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/AI_2026-08-06.mp3" length="9653715" type="audio/mpeg"/>
       <guid isPermaLink="false">AI_2026-08-06.mp3</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:10:48</itunes:duration>
+      <itunes:duration>00:20:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
