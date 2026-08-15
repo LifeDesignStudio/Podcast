@@ -14,7 +14,7 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 11:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 11:54:45 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
@@ -109,24 +109,6 @@
       <guid isPermaLink="false">VALTURE_RADIO_2026-07-17_10_04.mp3</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>【職種超分析：営業職】将来性はあるのか？ 2026-07-14</title>
-      <description>【職種超分析：営業職】将来性はあるのか？ 2026-07-14</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/pivot_2026-07-14.mp3" length="14124627" type="audio/mpeg"/>
-      <guid isPermaLink="false">pivot_2026-07-14.mp3</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:29:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>【職種超分析：営業職】年収1000万円稼ぐ方法 2026-07-14</title>
-      <description>【職種超分析：営業職】年収1000万円稼ぐ方法 2026-07-14</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/1000_2026-07-14.mp3" length="14398035" type="audio/mpeg"/>
-      <guid isPermaLink="false">1000_2026-07-14.mp3</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:29:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
