@@ -14,13 +14,31 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 06 Aug 2026 08:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:10:04 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
       <title>Yoshi's Private Podcast</title>
       <link>https://LifeDesignStudio.github.io/Podcast/feed.xml</link>
     </image>
+    <item>
+      <title>VALTURE RADIO 2026-08-15</title>
+      <description>VALTURE RADIO 2026-08-15</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/VALTURE_RADIO_2026-08-15_18_09.mp3" length="28800428" type="audio/mpeg"/>
+      <guid isPermaLink="false">VALTURE_RADIO_2026-08-15_18_09.mp3</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>WEEKEND VIBES 2026-08-15</title>
+      <description>WEEKEND VIBES 2026-08-15</description>
+      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/WEEKEND_VIBES_2026-08-15_17_52.mp3" length="121388" type="audio/mpeg"/>
+      <guid isPermaLink="false">WEEKEND_VIBES_2026-08-15_17_52.mp3</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:00:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>世界150万人が熱狂。次世代フィットネス「ハイロックス」急成長の理由 2026-08-06</title>
       <description>世界150万人が熱狂。次世代フィットネス「ハイロックス」急成長の理由 2026-08-06</description>
