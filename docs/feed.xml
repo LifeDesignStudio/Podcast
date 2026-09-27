@@ -14,7 +14,7 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://LifeDesignStudio.github.io/Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 10:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:13:32 +0000</lastBuildDate>
     <itunes:image href="https://LifeDesignStudio.github.io/Podcast/cover.jpg"/>
     <image>
       <url>https://LifeDesignStudio.github.io/Podcast/cover.jpg</url>
@@ -37,24 +37,6 @@
       <guid isPermaLink="false">VALTURE_RADIO_2026-09-20_19_02.mp3</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>2026/07/14 サカナクション山口一郎のオールナイトニッポン（ゲスト:野村泰紀/理論物理学者）</title>
-      <description>2026/07/14 サカナクション山口一郎のオールナイトニッポン（ゲスト:野村泰紀/理論物理学者）</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/2026_07_14____2026-07-14.mp3" length="44849261" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026_07_14____2026-07-14.mp3</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>01:33:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>2026/08/25 サカナクション山口一郎のオールナイトニッポン（ゲスト:大泉洋）</title>
-      <description>2026/08/25 サカナクション山口一郎のオールナイトニッポン（ゲスト:大泉洋）</description>
-      <enclosure url="https://LifeDesignStudio.github.io/Podcast/episodes/2026_08_25___2026-08-25.mp3" length="43346049" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026_08_25___2026-08-25.mp3</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>01:30:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
